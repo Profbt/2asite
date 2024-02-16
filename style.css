@@ -1,3 +1,7 @@
-.texto h1 {
+.texto {
+    font-size: 50px;
+}
+
+h1 {
     font-size: 50px;
 }
