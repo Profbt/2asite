@@ -54,6 +54,7 @@ body {
 
 .estudante-imagem {
     width: 120px;
+    justify-content: center;
 }
 
 .estudante-icone {
